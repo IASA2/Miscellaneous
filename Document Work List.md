@@ -1,5 +1,5 @@
-# 1 - RFC 7437
-Title: IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
+# 1 - RFC 4071
+Title: Structure of the IETF Administrative Support Activity (IASA)
 
 New Draft: draft-ietf-iasa2-struct (should obsolete 7437)
 
@@ -9,12 +9,17 @@ Repo: https://github.com/IASA2/draft-ietf-iasa2-struct
 
 Status: Cleared WGLC
 
-# 2 - RFC 
-Title: 
+
+# 2 - RFC 7437
+Title: IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
+
 New Draft: 
+
 Datatracker: 
+
 Repo:  
-Status: 
+
+Status: START WORK - HIGH PRIORITY
 
 # 3 - RFC 
 Title: 
