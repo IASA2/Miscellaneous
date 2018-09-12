@@ -1,8 +1,12 @@
 # 1 - RFC 7437
 Title: IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
+
 New Draft: draft-ietf-iasa2-struct (should obsolete 7437)
+
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/
+
 Repo: https://github.com/IASA2/draft-ietf-iasa2-struct
+
 Status: Cleared WGLC
 
 # 2 - RFC 
