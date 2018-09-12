@@ -9,7 +9,7 @@ Repo: https://github.com/IASA2/draft-ietf-iasa2-struct
 
 Status: Cleared WGLC
 
-
+# HIGH PRIORITY 
 # 2 - RFC 7437
 Title: IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
 
@@ -20,6 +20,8 @@ Datatracker:
 Repo:  
 
 Status: START WORK - HIGH PRIORITY
+
+Issues: Many references to the ED's role in the nomcom process. Recommend s/the IETF Executive Director/the IETF Secretariat/ throughout this document. Many other changes needed as well.
 
 # 3 - Informal / 2018 NomCom Guidance
 Title: 2018 NomCom Guidance
@@ -173,30 +175,54 @@ Repo:
 
 Status: 
 
-# 17 - RFC 
-Title: 
+# 17 - RFC 3005 
+Title: IETF Discussion List Charter
+
 New Draft: 
+
 Datatracker: 
+
 Repo:  
+
 Status: 
 
-# 18 - RFC 
-Title: 
+Issue: Refers to IETF Executive Director. Recommend deleting "the IETF Executive Director," since the LLC isn't supposed to be affecting the standards process.
+
+# 18 - RFC 4633
+Title: Experiment in Long-Term Suspensions From Internet Engineering Task Force (IETF) Mailing Lists
+
 New Draft: 
+
 Datatracker: 
+
 Repo:  
+
 Status: 
 
-# 19 - RFC 
-Title: 
+Issue: Refers to IETF Executive Director. Recommend mirroring the update to RFC 3005.
+
+# 19 - RFC 3710 
+Title: An IESG charter
+
 New Draft: 
+
 Datatracker: 
+
 Repo:  
+
 Status: 
 
-# 20 - RFC 
-Title: 
+Issue: Refers to IETF Executive Director. Recommend s/the IETF Executive Director/a representative of the IETF Secretariat/.
+
+# 20 - RFC 2028
+Title: The Organizations Involved in the IETF Standards Process
+
 New Draft: 
+
 Datatracker: 
+
 Repo:  
+
 Status: 
+
+Issue: Refers to IETF Executive Director. Should be addressed as part of a larger update to this document -- it also contains a section about ISOC that needs updating.
