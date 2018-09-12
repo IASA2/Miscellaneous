@@ -107,46 +107,70 @@ Status:
 Issue: 
 "1. INTRODUCTION This memo documents the process currently used by the Internet community for the standardization of protocols and procedures. The Internet Standards process is an activity of the Internet Society that is organized and managed on behalf of the Internet community by the Internet Architecture Board (IAB) and the Internet Engineering Steering Group (IESG).” In light of IETF LLC, does it need revisiting?
 
-# 11 - RFC 
-Title: 
+# 11 - RFC 4844
+Title: The RFC Series and RFC Editor
+
 New Draft: 
+
 Datatracker: 
+
 Repo:  
+
 Status: 
 
-# 12 - RFC 
-Title: 
+# 12 - RFC 5377 
+Title: Advice to the Trustees of the IETF Trust on Rights to Be Granted in IETF Documents
+
 New Draft: 
+
 Datatracker: 
+
 Repo:  
+
 Status: 
 
-# 13 - RFC 
-Title: 
+# 13 - RFC 6220 
+Title: Defining the Role and Function of IETF Protocol Parameter Registry Operators
+
 New Draft: 
+
 Datatracker: 
+
 Repo:  
+
 Status: 
 
-# 14 - RFC 
-Title: 
+# 14 - RFC 7500 
+Title: Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries
+
 New Draft: 
+
 Datatracker: 
+
 Repo:  
+
 Status: 
 
-# 15 - RFC 
-Title: 
-New Draft: 
-Datatracker: 
-Repo:  
-Status: 
+# 15 - RFC 7691 
+Title: Updating the Term Dates of IETF Administrative Oversight Committee (IAOC) Members
 
-# 16 - RFC 
-Title: 
 New Draft: 
+
 Datatracker: 
+
 Repo:  
+
+Status: None yet - may just obsolete it 
+
+# 16 - RFC 7776 
+Title: IETF Anti-Harassment Procedures
+
+New Draft: 
+
+Datatracker: 
+
+Repo:  
+
 Status: 
 
 # 17 - RFC 
