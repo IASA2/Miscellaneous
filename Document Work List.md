@@ -12,11 +12,11 @@ Status: Cleared WGLC
 # 2 - RFC 7437 [HIGH PRIORITY]
 Title: IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
 
-New Draft: 
+New Draft: draft-ietf-iasa2-rfc7437bis 
 
-Datatracker: 
+Datatracker: Not yet posted
 
-Repo:  
+Repo:  https://github.com/IASA2/RFC-7437-bis
 
 Status: START WORK - HIGH PRIORITY
 
