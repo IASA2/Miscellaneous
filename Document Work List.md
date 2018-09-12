@@ -225,3 +225,16 @@ Repo:
 Status: 
 
 Issue: Refers to IETF Executive Director. Should be addressed as part of a larger update to this document -- it also contains a section about ISOC that needs updating.
+
+# Other Documents to Check
+1603 - obsoleted by 2418
+2026 - entire affected section (Section 10) replaced by 8179
+2027 - obsoleted by 2282
+2282 - obsoleted by 2727
+2727 - obsoleted by 3777
+3668 - obsoleted by 3979
+3716 - informational, no need for update
+3777 - obsoleted by 7437
+3979 - obsoleted by 8179
+4879 - obsoleted by 8179
+5633 - obsoleted by 7437
