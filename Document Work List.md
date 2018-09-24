@@ -189,7 +189,7 @@ Datatracker:
 
 Repo:  
 
-Status: Last editors were Pete Resnik and Adrian Farrell, so asking if they'd be interested in an update on 9/24/18.
+Status: Last editors were Pete Resnik and Adrian Farrell - they agreed to work on a -bis update.
 
 From 3.4.  Qualifications and Training
 ...In determining the appropriate training, the IETF Chair and Ombudsteam shall take professional advice and will consult with the IETF Administrative Oversight Committee (IAOC) with respect to the overall IETF budget.
