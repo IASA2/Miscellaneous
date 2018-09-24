@@ -105,19 +105,9 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6548bis/
 Status: WGLC can be issued 9/24 and ends 10/8
 
 # 10 - RFC 2026
-## Needs to be Written
-Title: The Internet Standards Process -- Revision 3
-
-New Draft: 
-
-Datatracker: 
-
-Repo:  
-
-Status: Asked Scott for his input on 9/24/18
-
-Issue: 
-"1. INTRODUCTION This memo documents the process currently used by the Internet community for the standardization of protocols and procedures. The Internet Standards process is an activity of the Internet Society that is organized and managed on behalf of the Internet community by the Internet Architecture Board (IAB) and the Internet Engineering Steering Group (IESG).” In light of IETF LLC, does it need revisiting?
+## NOT NEEDED
+Title: The Internet Standards Process -- Revision 3 
+Status: Asked Scott Bradner for his input on 9/24/18. Our sense was that the potential IASA2-related changes were very minor and it is likely not necessary to address this (and we have much other work to do).
 
 # 11 - RFC 4844
 ## Needs to be Written
