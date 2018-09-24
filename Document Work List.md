@@ -211,7 +211,7 @@ Repo:
 
 Status: 
 
-Issue: Refers to IETF Executive Director. Recommend s/the IETF Executive Director/a representative of the IETF Secretariat/.
+Issue: Refers to IETF Executive Director. Recommend s/the IETF Executive Director/Managing Director, IETF Secretariat
 
 # 20 - RFC 2028
 Title: The Organizations Involved in the IETF Standards Process
