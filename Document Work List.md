@@ -71,7 +71,7 @@ Datatracker:
 
 Repo:  
 
-Status: None yet - may just obsolete it 
+Status: None yet - update -bis or obsolete with structure draft?
 
 # 7 - RFC 2031
 ## Needs to be Written
@@ -114,7 +114,7 @@ Datatracker:
 
 Repo:  
 
-Status: 
+Status: Asked Scott for his input on 9/24/18
 
 Issue: 
 "1. INTRODUCTION This memo documents the process currently used by the Internet community for the standardization of protocols and procedures. The Internet Standards process is an activity of the Internet Society that is organized and managed on behalf of the Internet community by the Internet Architecture Board (IAB) and the Internet Engineering Steering Group (IESG).” In light of IETF LLC, does it need revisiting?
@@ -129,7 +129,7 @@ Datatracker:
 
 Repo:  
 
-Status: 
+Status: ASKED WG FOR VOLUNTEER
 
 # 12 - RFC 5377 
 ## Needs to be Written
@@ -141,7 +141,7 @@ Datatracker:
 
 Repo:  
 
-Status: 
+Status: Joel was last editor, asked him 9/24/18
 
 # 13 - RFC 6220 
 ## Needs to be Written
@@ -153,7 +153,7 @@ Datatracker:
 
 Repo:  
 
-Status: 
+Status: Asked prior editors on 9/24/18
 
 # 14 - RFC 7500 
 ## Needs to be Written
@@ -165,7 +165,7 @@ Datatracker:
 
 Repo:  
 
-Status: 
+Status: Asked Russ and Olad as prior editors on 9/24/18
 
 # 15 - RFC 7691 
 ## Needs to be Written
@@ -189,7 +189,12 @@ Datatracker:
 
 Repo:  
 
-Status: 
+Status: Last editors were Pete Resnik and Adrian Farrell, so asking if they'd be interested in an update on 9/24/18.
+
+From 3.4.  Qualifications and Training
+...In determining the appropriate training, the IETF Chair and Ombudsteam shall take professional advice and will consult with the IETF Administrative Oversight Committee (IAOC) with respect to the overall IETF budget.
+To 3.4.  Qualifications and Training
+...In determining the appropriate training, the IETF Chair and Ombudsteam shall take professional advice and will consult with the IETF Administration LLC with respect to the overall IETF budget.
 
 # 17 - RFC 3005 
 ## Needs to be Written
