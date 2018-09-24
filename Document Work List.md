@@ -50,6 +50,7 @@ Repo: https://github.com/IASA2/draft-ietf-iasa2-trust-update
 Status: Cleared WGLC
 
 # 5 - IETF Trust Update Rationale
+## Cleared WGLC
 Title: Discussion of the IASA 2.0 Changes as They Relate to the IETF Trust
 
 New Draft: draft-ietf-iasa2-trust-update
@@ -61,6 +62,7 @@ Repo: https://github.com/IASA2/draft-ietf-iasa2-trust-rationale
 Status: WGLC ended 
 
 # 6 - RFC 4333 
+## Needs to be Written
 Title: The IETF Administrative Oversight Committee (IAOC) Member Selection Guidelines and Process
 
 New Draft: 
@@ -72,6 +74,7 @@ Repo:
 Status: None yet - may just obsolete it 
 
 # 7 - RFC 2031
+## Needs to be Written
 Title: IETF-ISOC relationship
 
 New Draft: 
@@ -83,6 +86,7 @@ Repo:
 Status: None yet - but Jason and Gonzalo plan to collaborate on it
 
 # 8 - RFC 6635
+## WGLC Issued - Ends 9/26/18
 Title: RFC Editor Model (Version 2)
 
 New Draft: draft-ietf-iasa2-rfc6635bis
@@ -92,6 +96,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6635bis/
 Status: WGLC ending on 9/26/2018
 
 # 9 - RFC 6548
+## WGLC Issues - Ends 10/8/18
 Title: Independent Submission Editor Mode
 New Draft: draft-ietf-iasa2-rfc6548bis
 
@@ -100,6 +105,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6548bis/
 Status: WGLC can be issued 9/24 and ends 10/8
 
 # 10 - RFC 2026
+## Needs to be Written
 Title: The Internet Standards Process -- Revision 3
 
 New Draft: 
@@ -114,6 +120,7 @@ Issue:
 "1. INTRODUCTION This memo documents the process currently used by the Internet community for the standardization of protocols and procedures. The Internet Standards process is an activity of the Internet Society that is organized and managed on behalf of the Internet community by the Internet Architecture Board (IAB) and the Internet Engineering Steering Group (IESG).” In light of IETF LLC, does it need revisiting?
 
 # 11 - RFC 4844
+## Needs to be Written
 Title: The RFC Series and RFC Editor
 
 New Draft: 
@@ -125,6 +132,7 @@ Repo:
 Status: 
 
 # 12 - RFC 5377 
+## Needs to be Written
 Title: Advice to the Trustees of the IETF Trust on Rights to Be Granted in IETF Documents
 
 New Draft: 
@@ -136,6 +144,7 @@ Repo:
 Status: 
 
 # 13 - RFC 6220 
+## Needs to be Written
 Title: Defining the Role and Function of IETF Protocol Parameter Registry Operators
 
 New Draft: 
@@ -147,6 +156,7 @@ Repo:
 Status: 
 
 # 14 - RFC 7500 
+## Needs to be Written
 Title: Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries
 
 New Draft: 
@@ -158,6 +168,7 @@ Repo:
 Status: 
 
 # 15 - RFC 7691 
+## Needs to be Written
 Title: Updating the Term Dates of IETF Administrative Oversight Committee (IAOC) Members
 
 New Draft: 
@@ -169,6 +180,7 @@ Repo:
 Status: None yet - may just obsolete it 
 
 # 16 - RFC 7776 
+## Needs to be Written
 Title: IETF Anti-Harassment Procedures
 
 New Draft: 
@@ -180,6 +192,7 @@ Repo:
 Status: 
 
 # 17 - RFC 3005 
+## Needs to be Written
 Title: IETF Discussion List Charter
 
 New Draft: 
@@ -193,6 +206,7 @@ Status:
 Issue: Refers to IETF Executive Director. Recommend deleting "the IETF Executive Director," since the LLC isn't supposed to be affecting the standards process.
 
 # 18 - RFC 4633
+## Needs to be Written
 Title: Experiment in Long-Term Suspensions From Internet Engineering Task Force (IETF) Mailing Lists
 
 New Draft: 
@@ -206,6 +220,7 @@ Status:
 Issue: Refers to IETF Executive Director. Recommend mirroring the update to RFC 3005.
 
 # 19 - RFC 3710 
+## Needs to be Written
 Title: An IESG charter
 
 New Draft: 
@@ -219,6 +234,7 @@ Status:
 Issue: Refers to IETF Executive Director. Recommend s/the IETF Executive Director/Managing Director, IETF Secretariat
 
 # 20 - RFC 2028
+## Needs to be Written
 Title: The Organizations Involved in the IETF Standards Process
 
 New Draft: 
