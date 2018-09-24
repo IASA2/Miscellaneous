@@ -125,13 +125,11 @@ Status: ASKED WG FOR VOLUNTEER
 ## Needs to be Written
 Title: Advice to the Trustees of the IETF Trust on Rights to Be Granted in IETF Documents
 
-New Draft: 
+New Draft: draft-ietf-iasa2-rfc5377bis
 
-Datatracker: 
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc5377bis/
 
-Repo:  
-
-Status: Joel Halpern is working on this
+Status: One Q to WG, then ready for WGLC.
 
 # 13 - RFC 6220 
 ## Needs to be Written
