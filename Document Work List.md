@@ -92,7 +92,7 @@ New Draft: draft-ietf-iasa2-rfc6548bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6548bis/
 
-Status: WGLC can be issued after the -01 update
+Status: WGLC can be issued 9/24 and ends 10/8
 
 # 10 - RFC 2026
 Title: The Internet Standards Process -- Revision 3
