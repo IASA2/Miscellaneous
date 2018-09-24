@@ -42,9 +42,9 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-trust-update/
 
 Repo: https://github.com/IASA2/draft-ietf-iasa2-trust-update
 
-Status: WGLC ending on 9/21/2018
+Status: WGLC ended on 9/21/2018
 
-# 5 - Informal / IETF Trust Update Rationale
+# 5 - IETF Trust Update Rationale
 Title: Discussion of the IASA 2.0 Changes as They Relate to the IETF Trust
 
 New Draft: draft-ietf-iasa2-trust-update
@@ -53,7 +53,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-trust-rationale/
 
 Repo: https://github.com/IASA2/draft-ietf-iasa2-trust-rationale
 
-Status: WGLC ending on 9/21/2018 - but doc will expire - no need to become RFC
+Status: WGLC ended 
 
 # 6 - RFC 4333 
 Title: The IETF Administrative Oversight Committee (IAOC) Member Selection Guidelines and Process
