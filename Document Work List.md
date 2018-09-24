@@ -1,4 +1,5 @@
 # 1 - RFC 4071
+## Cleared WGLC
 Title: Structure of the IETF Administrative Support Activity (IASA)
 
 New Draft: draft-ietf-iasa2-struct (should obsolete 7437)
@@ -25,6 +26,7 @@ Status: START WORK - HIGH PRIORITY
 Issues: Many references to the ED's role in the nomcom process. Recommend s/the IETF Executive Director/the IETF Secretariat/ throughout this document. Many other changes needed as well.
 
 # 3 - Informal / 2018 NomCom Guidance
+## COMPLETE
 Title: 2018 NomCom Guidance
 
 New Draft: N/A
@@ -36,6 +38,7 @@ Repo:  https://github.com/IASA2/NomCom-Guidance
 Status: COMPLETE and Sent to NomCom
 
 # 4 - RFC 4371 / BCP 101 
+## Cleared WGLC
 Title: Update for IPR Trust
 
 New Draft: draft-ietf-iasa2-trust-update
@@ -44,7 +47,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-trust-update/
 
 Repo: https://github.com/IASA2/draft-ietf-iasa2-trust-update
 
-Status: WGLC ended on 9/21/2018
+Status: Cleared WGLC
 
 # 5 - IETF Trust Update Rationale
 Title: Discussion of the IASA 2.0 Changes as They Relate to the IETF Trust
