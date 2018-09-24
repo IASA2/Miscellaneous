@@ -141,7 +141,7 @@ Datatracker:
 
 Repo:  
 
-Status: Joel was last editor, asked him 9/24/18
+Status: Joel Halpern is working on this
 
 # 13 - RFC 6220 
 ## Needs to be Written
