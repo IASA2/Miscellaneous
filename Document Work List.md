@@ -1,3 +1,4 @@
+# Cleared WGLC
 # 1 - RFC 4071
 Title: Structure of the IETF Administrative Support Activity (IASA)
 
@@ -9,6 +10,7 @@ Repo: https://github.com/IASA2/draft-ietf-iasa2-struct
 
 Status: Cleared WGLC
 
+# Needs to be Written
 # 2 - RFC 7437 [HIGH PRIORITY]
 Title: IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
 
