@@ -77,13 +77,13 @@ Status: None yet - update -bis or obsolete with structure draft?
 ## Needs to be Written
 Title: IETF-ISOC relationship
 
-New Draft: 
+New Draft: draft-ietf-iasa2-rfc2031bis
 
 Datatracker: 
 
-Repo:  
+Repo: https://github.com/IASA2/RFC-2031-bis/blob/master/draft-ietf-iasa2-rfc2031bis
 
-Status: None yet - but Jason and Gonzalo plan to collaborate on it
+Status: In process with Jason and Gonzalo
 
 # 8 - RFC 6635
 ## WGLC Issued - Ends 9/26/18
