@@ -2,7 +2,7 @@
 ## Cleared WGLC
 Title: Structure of the IETF Administrative Support Activity (IASA)
 
-New Draft: draft-ietf-iasa2-struct (should obsolete 7437)
+New Draft: draft-ietf-iasa2-struct (should obsolete 4071)
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/
 
