@@ -81,7 +81,7 @@ New Draft: draft-ietf-iasa2-rfc2031bis
 
 Datatracker: 
 
-Repo: https://github.com/IASA2/RFC-2031-bis/blob/master/draft-ietf-iasa2-rfc2031bis
+Repo: https://github.com/IASA2/RFC-2031-bis/blob/master/draft-ietf-iasa2-rfc2031bis.xml
 
 Status: In process with Jason and Gonzalo
 
