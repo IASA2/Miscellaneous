@@ -19,7 +19,7 @@ New Draft: draft-ietf-iasa2-rfc7437bis
 
 Datatracker: Not yet posted
 
-Repo:  https://github.com/IASA2/RFC-7437-bis
+Repo:  https://github.com/IASA2/RFC-7437-bis/blob/master/draft-ietf-iasa2-rfc7437bis.xml
 
 Status: HIGH PRIORITY
 
