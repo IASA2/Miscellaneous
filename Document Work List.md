@@ -23,7 +23,7 @@ Repo:  https://github.com/IASA2/RFC-7437-bis/blob/master/draft-ietf-iasa2-rfc743
 
 Status: HIGH PRIORITY
 
-Issues: Many references to the ED's role in the nomcom process. Recommend s/the IETF Executive Director/the IETF Secretariat/ throughout this document. Many other changes needed as well.
+Issues: Many references to the ED's role in the nomcom process. Recommend s/the IETF Executive Director/the IETF Secretariat/ throughout this document. Many other changes needed as well. Jason and Bob collaborating on the document.
 
 # 3 - Informal / 2018 NomCom Guidance
 ## COMPLETE
