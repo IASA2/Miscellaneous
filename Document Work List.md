@@ -145,16 +145,10 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7500-bis/
 Status: Ready for WGLC
 
 # 15 - RFC 7691 
-## Needs to be Written
+## NOT NEEDED / OBSOLETED 
 Title: Updating the Term Dates of IETF Administrative Oversight Committee (IAOC) Members
 
-New Draft: 
-
-Datatracker: 
-
-Repo:  
-
-Status: None yet - may just obsolete it 
+Status: Not necessary - this is about the IAOC, which no longer exists based on the structure document. Thus the structure document should and will obsolete RFC 7691.
 
 # 16 - RFC 7776 
 ## Cleared WGLC
@@ -176,7 +170,7 @@ Datatracker:
 
 Repo:  
 
-Status: 
+Status: VOLUNTEER NEEDED
 
 Issue: Refers to IETF Executive Director. Recommend deleting "the IETF Executive Director," since the LLC isn't supposed to be affecting the standards process.
 
@@ -190,7 +184,7 @@ Datatracker:
 
 Repo:  
 
-Status: 
+Status: VOLUNTEER NEEDED
 
 Issue: Refers to IETF Executive Director. Recommend mirroring the update to RFC 3005.
 
@@ -204,7 +198,7 @@ Datatracker:
 
 Repo:  
 
-Status: 
+Status: VOLUNTEER NEEDED
 
 Issue: Refers to IETF Executive Director. Recommend s/the IETF Executive Director/Managing Director, IETF Secretariat
 
@@ -218,7 +212,7 @@ Datatracker:
 
 Repo:  
 
-Status: 
+Status: VOLUNTEER NEEDED
 
 Issue: Refers to IETF Executive Director. Should be addressed as part of a larger update to this document -- it also contains a section about ISOC that needs updating.
 
