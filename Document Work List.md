@@ -122,14 +122,14 @@ Repo:
 Status: ASKED WG FOR VOLUNTEER
 
 # 12 - RFC 5377 
-## Needs to be Written
+## Cleared WGLC
 Title: Advice to the Trustees of the IETF Trust on Rights to Be Granted in IETF Documents
 
 New Draft: draft-ietf-iasa2-rfc5377bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc5377bis/
 
-Status: One Q to WG, then ready for WGLC.
+Status: Cleared WGLC
 
 # 13 - RFC 6220 
 ## Needs to be Written
