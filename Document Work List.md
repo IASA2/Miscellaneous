@@ -62,16 +62,10 @@ Repo: https://github.com/IASA2/draft-ietf-iasa2-trust-rationale
 Status: Cleared WGLC 
 
 # 6 - RFC 4333 
-## Needs to be Written
+## NOT NEEDED / OBSOLETED
 Title: The IETF Administrative Oversight Committee (IAOC) Member Selection Guidelines and Process
 
-New Draft: 
-
-Datatracker: 
-
-Repo:  
-
-Status: None yet - update -bis or obsolete with structure draft?
+Status: Not necessary - this is about the IAOC, which no longer exists based on the structure document. Thus the structure document should and will obsolete RFC 4333 / BCP 113.
 
 # 7 - RFC 2031
 ## In Process
