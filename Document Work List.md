@@ -1,4 +1,4 @@
-# 1 - RFC 4071
+# 1 - RFC 4071 / BCP 101 
 ## Cleared WGLC
 Title: Structure of the IETF Administrative Support Activity (IASA)
 
@@ -143,16 +143,14 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6220bis/
 Status: Ready for WGLC
 
 # 14 - RFC 7500 
-## Needs to be Written
+## In Process
 Title: Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries
 
-New Draft: 
+New Draft: draft-ietf-iasa2-rfc7500-bis
 
-Datatracker: 
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7500-bis/
 
-Repo:  
-
-Status: Asked Russ and Olad as prior editors on 9/24/18
+Status: Ready for WGLC
 
 # 15 - RFC 7691 
 ## Needs to be Written
