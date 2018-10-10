@@ -80,14 +80,14 @@ Repo: https://github.com/IASA2/RFC-2031-bis/blob/master/draft-ietf-iasa2-rfc2031
 Status: In process with Jason and Gonzalo
 
 # 8 - RFC 6635
-## WGLC Issued - Ends 9/26/18
+## Cleared WGLC
 Title: RFC Editor Model (Version 2)
 
 New Draft: draft-ietf-iasa2-rfc6635bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6635bis/
 
-Status: WGLC ending on 9/26/2018
+Status: Cleared WGLC
 
 # 9 - RFC 6548
 ## Cleared WGLC
@@ -105,16 +105,14 @@ Title: The Internet Standards Process -- Revision 3
 Status: Asked Scott Bradner for his input on 9/24/18. Our sense was that the potential IASA2-related changes were very minor and it is likely not necessary to address this (and we have much other work to do).
 
 # 11 - RFC 4844
-## Needs to be Written
+## In Process
 Title: The RFC Series and RFC Editor
 
 New Draft: 
 
 Datatracker: 
 
-Repo:  
-
-Status: ASKED WG FOR VOLUNTEER
+Status: Russ has volunteered
 
 # 12 - RFC 5377 
 ## Cleared WGLC
