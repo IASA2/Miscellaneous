@@ -59,7 +59,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-trust-rationale/
 
 Repo: https://github.com/IASA2/draft-ietf-iasa2-trust-rationale
 
-Status: WGLC ended 
+Status: Cleared WGLC 
 
 # 6 - RFC 4333 
 ## Needs to be Written
@@ -168,21 +168,14 @@ Repo:
 Status: None yet - may just obsolete it 
 
 # 16 - RFC 7776 
-## Needs to be Written
+## Cleared WGLC
 Title: IETF Anti-Harassment Procedures
 
-New Draft: 
+New Draft: draft-ietf-iasa2-rfc7776bis
 
-Datatracker: 
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7776bis/
 
-Repo:  
-
-Status: Last editors were Pete Resnik and Adrian Farrell - they agreed to work on a -bis update.
-
-From 3.4.  Qualifications and Training
-...In determining the appropriate training, the IETF Chair and Ombudsteam shall take professional advice and will consult with the IETF Administrative Oversight Committee (IAOC) with respect to the overall IETF budget.
-To 3.4.  Qualifications and Training
-...In determining the appropriate training, the IETF Chair and Ombudsteam shall take professional advice and will consult with the IETF Administration LLC with respect to the overall IETF budget.
+Status: Cleared WGLC 
 
 # 17 - RFC 3005 
 ## Needs to be Written
