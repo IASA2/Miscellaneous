@@ -96,13 +96,14 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6635bis/
 Status: WGLC ending on 9/26/2018
 
 # 9 - RFC 6548
-## WGLC Issues - Ends 10/8/18
+## Cleared WGLC
 Title: Independent Submission Editor Mode
+
 New Draft: draft-ietf-iasa2-rfc6548bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6548bis/
 
-Status: WGLC can be issued 9/24 and ends 10/8
+Status: Cleared WGLC
 
 # 10 - RFC 2026
 ## NOT NEEDED
