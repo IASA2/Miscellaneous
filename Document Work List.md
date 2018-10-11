@@ -252,11 +252,8 @@ RFC 6702 - Promoting Compliance with Intellectual Property Rights (IPR) Disclosu
 Issue: Mentions IETF Executive Director in Section 5. Needs to change to Managing Director, IETF Secretariat.
 
 RFC 8318 - IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
-Issue: Mentions the IAOC extensively. 
+Issue: Mentions the IAOC extensively. We are already updating RFC 7437. Need to determine correct RFCs to have that -bis draft replace/obsolete.
 
 General issues:
 - Remove mention of IAOC, change to IETF LLC
 - IETF Executive Director title or Managing Director, IETF Secretariat corrections
-
-
-
