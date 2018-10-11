@@ -214,7 +214,7 @@ Status: ALLISON MANKIN VOLUNTEERED
 
 Issue: Refers to IETF Executive Director. Should be addressed as part of a larger update to this document -- it also contains a section about ISOC that needs updating.
 
-# Other Documents to Check
+# Backlog: Other Documents to Check
 RFC 1603 - obsoleted by 2418
 
 RFC 2026 - entire affected section (Section 10) replaced by 8179
