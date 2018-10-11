@@ -212,7 +212,7 @@ Datatracker:
 
 Repo:  
 
-Status: VOLUNTEER NEEDED
+Status: ALLISON MANKIN VOLUNTEERED
 
 Issue: Refers to IETF Executive Director. Should be addressed as part of a larger update to this document -- it also contains a section about ISOC that needs updating.
 
