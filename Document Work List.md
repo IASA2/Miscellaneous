@@ -168,6 +168,8 @@ New Draft: draft-ietf-iasa2-rfc3005bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc3005bis/
 
+Status: Start WGLC 10/15; ends 10/22
+
 # 18 - RFC 4633
 ## NO UPDATE NEEDED
 Title: Experiment in Long-Term Suspensions From Internet Engineering Task Force (IETF) Mailing Lists
