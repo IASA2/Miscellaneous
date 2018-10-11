@@ -203,9 +203,18 @@ Status: ALLISON MANKIN VOLUNTEERED
 Issue: Refers to IETF Executive Director. Should be addressed as part of a larger update to this document -- it also contains a section about ISOC that needs updating.
 
 # Backlog: Other Documents to Check
-RFC 1603 - obsoleted by 2418
 
-RFC 2026 - entire affected section (Section 10) replaced by 8179
+## NO ACTION NEEDED
+RFC 1603 - IETF Working Group Guidelines and Procedures
+Obsoleted by RFC 2418
+
+RFC 2026 - The Internet Standards Process -- Revision 3
+Commentary: Mentions IETF Executive Director in Section 10. Needs to change to Managing Director, IETF Secretariat. BUT RFC 2026 Section 10 is Intellectual Property Rights, and that part of RFC 2026 is updated by RFC 8179 - Intellectual Property Rights in IETF Technology. RFC 8179 corrects mentions of the IETF Executive Director to the IETF Secretariat. As a result, no revision of either RFC 2026 or RFC 8179 is necessary. 
+
+## ACTION NEEDED
+RFC 2418 - IETF Working Group Guidelines and Procedures
+Issue: Mentions IETF Executive Director in Section 1. Needs to change to Managing Director, IETF Secretariat.
+
 
 RFC 2027 - obsoleted by 2282
 
