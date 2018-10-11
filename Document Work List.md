@@ -196,7 +196,7 @@ Datatracker:
 
 Repo:  
 
-Status: VOLUNTEER NEEDED
+Status: Asked Harald (original author) if he would be interested in volunteering
 
 Issue: Refers to IETF Executive Director. Recommend s/the IETF Executive Director/Managing Director, IETF Secretariat
 
