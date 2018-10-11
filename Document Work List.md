@@ -221,7 +221,13 @@ RFC 2727 - IAB and IESG Selection, Confirmation, and Recall Process: Operation o
 Obsoleted by RFC 3777
 
 RFC 3777 - IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
-Obsoleted by 7437 (which is on the list to revise)
+Obsoleted by RFC 7437 (which is on the list to revise)
+
+RFC 3668 - Intellectual Property Rights in IETF Technology
+Obsoleted by RFC 3979
+
+RFC 3979 - Intellectual Property Rights in IETF Technology
+Obsoleted by RFC 8179 (which is on the list to revise)
 
 ## ACTION NEEDED
 RFC 2418 - IETF Working Group Guidelines and Procedures
@@ -230,21 +236,11 @@ Issue: Mentions IETF Executive Director in Section 1. Needs to change to Managin
 
 
 
-RFC 3668 - obsoleted by 3979
-
 RFC 3716 - informational, no need for update
-
-
 RFC 3929 - Consensus-Blocked Decisions in the IETF
-
-RFC 3979 - IPR in IETF Technology- obsoleted by 8179
-
 RFC 4879 - Third Party Fix for RFC 3979 - obsoleted by 8179
-
 RFC 5633 - NomCom Issues - obsoleted by 7437
-
 RFC 6702 - IPR Disclosure
-
 RFC 8318 - Update to NomCom Process
 
 Some of the documents:
