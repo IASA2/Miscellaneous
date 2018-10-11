@@ -227,27 +227,32 @@ RFC 3668 - Intellectual Property Rights in IETF Technology
 Obsoleted by RFC 3979
 
 RFC 3979 - Intellectual Property Rights in IETF Technology
-Obsoleted by RFC 8179 (which is on the list to revise)
+Obsoleted by RFC 8179
+
+RFC 8179 - Intellectual Property Rights in IETF Technology
+Commentary: Predecessor documents, such as RFC 3979, mentions the IETF Executive Director. RFC 8179 corrects mentions of the IETF Executive Director to the IETF Secretariat. As a result, no revision of either RFC 8179 is necessary. 
+
+RFC 3716 - The IETF in the Large:  Administration and Execution
+Commentary: While this describes the administrative structure of the IETF, it dates to 2004 and is informational. As a result, no update is necessary.
+
+RFC 3929 - Alternative Decision Making Processes for Consensus-Blocked Decisions in the IETF
+Commentary: While this touches on aspects of the administration of the IETF, such as mentioning the IETF Executive Director, it dates to 2004 and is experimental. As a result, no update is necessary.
+
+RFC 4879 - Clarification of the Third Party Disclosure Procedure in RFC 3979
+Obsoleted by RFC 8179
+
+RFC 5633 - Nominating Committee Process: Earlier Announcement of Open Positions and Solicitation of Volunteers
+Obsoleted by RFC 7437 (being updated by the WG)
 
 ## ACTION NEEDED
 RFC 2418 - IETF Working Group Guidelines and Procedures
 Issue: Mentions IETF Executive Director in Section 1. Needs to change to Managing Director, IETF Secretariat.
 
+RFC 6702 - Promoting Compliance with Intellectual Property Rights (IPR) Disclosure Rules
+Issue: Mentions IETF Executive Director in Section 5. Needs to change to Managing Director, IETF Secretariat.
 
-
-
-RFC 3716 - informational, no need for update
-RFC 3929 - Consensus-Blocked Decisions in the IETF
-RFC 4879 - Third Party Fix for RFC 3979 - obsoleted by 8179
-RFC 5633 - NomCom Issues - obsoleted by 7437
-RFC 6702 - IPR Disclosure
-RFC 8318 - Update to NomCom Process
-
-Some of the documents:
-- have been obsoleted 
-- others need to get updated for IASA 2.0
-- some needs individual update documents
-- others can be grouped into one or a small number of documents that update several other RFCs at once
+RFC 8318 - IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
+Issue: Mentions the IAOC extensively. 
 
 General issues:
 - Remove mention of IAOC, change to IETF LLC
