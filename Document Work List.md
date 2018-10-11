@@ -161,18 +161,16 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7776bis/
 Status: Cleared WGLC 
 
 # 17 - RFC 3005 
-## Needs to be Written
+## In Process
 Title: IETF Discussion List Charter
 
 New Draft: 
 
 Datatracker: 
 
-Repo:  
-
-Status: VOLUNTEER NEEDED
-
 Issue: Refers to IETF Executive Director. Recommend deleting "the IETF Executive Director," since the LLC isn't supposed to be affecting the standards process.
+
+RICH SALZ volunteered
 
 # 18 - RFC 4633
 ## Needs to be Written
@@ -203,7 +201,7 @@ Status: VOLUNTEER NEEDED
 Issue: Refers to IETF Executive Director. Recommend s/the IETF Executive Director/Managing Director, IETF Secretariat
 
 # 20 - RFC 2028
-## Needs to be Written
+## In Process
 Title: The Organizations Involved in the IETF Standards Process
 
 New Draft: 
