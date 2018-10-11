@@ -164,13 +164,9 @@ Status: Cleared WGLC
 ## In Process
 Title: IETF Discussion List Charter
 
-New Draft: 
+New Draft: draft-ietf-iasa2-rfc3005bis
 
-Datatracker: 
-
-Issue: Refers to IETF Executive Director. Recommend deleting "the IETF Executive Director," since the LLC isn't supposed to be affecting the standards process.
-
-RICH SALZ volunteered
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc3005bis/
 
 # 18 - RFC 4633
 ## Needs to be Written
