@@ -243,3 +243,15 @@ RFC 6702 - IPR Disclosure
 
 RFC 8318 - Update to NomCom Process
 
+Some of the documents:
+- have been obsoleted 
+- others need to get updated for IASA 2.0
+- some needs individual update documents
+- others can be grouped into one or a small number of documents that update several other RFCs at once
+
+General issues:
+- Remove mention of IAOC, change to IETF LLC
+- IETF Executive Director title or Managing Director, IETF Secretariat corrections
+
+
+
