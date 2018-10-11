@@ -215,24 +215,31 @@ Status: ALLISON MANKIN VOLUNTEERED
 Issue: Refers to IETF Executive Director. Should be addressed as part of a larger update to this document -- it also contains a section about ISOC that needs updating.
 
 # Other Documents to Check
-1603 - obsoleted by 2418
+RFC 1603 - obsoleted by 2418
 
-2026 - entire affected section (Section 10) replaced by 8179
+RFC 2026 - entire affected section (Section 10) replaced by 8179
 
-2027 - obsoleted by 2282
+RFC 2027 - obsoleted by 2282
 
-2282 - obsoleted by 2727
+RFC 2282 - obsoleted by 2727
 
-2727 - obsoleted by 3777
+RFC 2727 - obsoleted by 3777
 
-3668 - obsoleted by 3979
+RFC 3668 - obsoleted by 3979
 
-3716 - informational, no need for update
+RFC 3716 - informational, no need for update
 
-3777 - obsoleted by 7437
+RFC 3777 - Nominating and Recall Committees - obsoleted by 7437
 
-3979 - obsoleted by 8179
+RFC 3929 - Consensus-Blocked Decisions in the IETF
 
-4879 - obsoleted by 8179
+RFC 3979 - IPR in IETF Technology- obsoleted by 8179
 
-5633 - obsoleted by 7437
+RFC 4879 - Third Party Fix for RFC 3979 - obsoleted by 8179
+
+RFC 5633 - NomCom Issues - obsoleted by 7437
+
+RFC 6702 - IPR Disclosure
+
+RFC 8318 - Update to NomCom Process
+
