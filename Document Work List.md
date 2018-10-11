@@ -169,18 +169,10 @@ New Draft: draft-ietf-iasa2-rfc3005bis
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc3005bis/
 
 # 18 - RFC 4633
-## Needs to be Written
+## NO UPDATE NEEDED
 Title: Experiment in Long-Term Suspensions From Internet Engineering Task Force (IETF) Mailing Lists
 
-New Draft: 
-
-Datatracker: 
-
-Repo:  
-
-Status: VOLUNTEER NEEDED
-
-Issue: Refers to IETF Executive Director. Recommend mirroring the update to RFC 3005.
+Status: Refers to IETF Executive Director. BUT, it describes a 2006 experiment that ran for 18 months and is filed as experimental. As a result, no obvious need to update it at this time.
 
 # 19 - RFC 3710 
 ## Needs to be Written
