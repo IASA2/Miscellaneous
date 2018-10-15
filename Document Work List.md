@@ -17,7 +17,7 @@ Title: IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operatio
 
 New Draft: draft-ietf-iasa2-rfc7437bis 
 
-Datatracker: Not yet posted
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7437bis/
 
 Repo:  https://github.com/IASA2/RFC-7437-bis/blob/master/draft-ietf-iasa2-rfc7437bis.xml
 
