@@ -161,14 +161,14 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7776bis/
 Status: Cleared WGLC 
 
 # 17 - RFC 3005 
-## In Process
+## WGLC
 Title: IETF Discussion List Charter
 
 New Draft: draft-ietf-iasa2-rfc3005bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc3005bis/
 
-Status: Start WGLC 10/15; ends 10/22
+Status: WGLC started 10/15; ends 10/22
 
 # 18 - RFC 4633
 ## NO UPDATE NEEDED
