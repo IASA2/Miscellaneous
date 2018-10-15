@@ -256,10 +256,14 @@ RFC 3716 - The IETF in the Large:  Administration and Execution
 
 Commentary: While this describes the administrative structure of the IETF, it dates to 2004 and is informational. As a result, no update is necessary.
 
+Action: Filed erratum on 10/15/2018
+
 
 RFC 3929 - Alternative Decision Making Processes for Consensus-Blocked Decisions in the IETF
 
 Commentary: While this touches on aspects of the administration of the IETF, such as mentioning the IETF Executive Director, it dates to 2004 and is experimental. As a result, no update is necessary.
+
+Action: Filed erratum on 10/15/2018
 
 
 RFC 4879 - Clarification of the Third Party Disclosure Procedure in RFC 3979
