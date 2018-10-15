@@ -108,11 +108,11 @@ Status: Asked Scott Bradner for his input on 9/24/18. Our sense was that the pot
 ## In Process
 Title: The RFC Series and RFC Editor
 
-New Draft: 
+New Draft: draft-ietf-iasa2-rfc4844-bis
 
-Datatracker: 
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc4844-bis/
 
-Status: Russ has volunteered
+Status: Published - ready for WGLC soon
 
 # 12 - RFC 5377 
 ## Cleared WGLC
