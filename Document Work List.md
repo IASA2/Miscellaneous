@@ -285,6 +285,8 @@ RFC 6702 - Promoting Compliance with Intellectual Property Rights (IPR) Disclosu
 
 Issue: Mentions IETF Executive Director in Section 5. Needs to change to Managing Director, IETF Secretariat.
 
+Status: Russ volunteered for 6702
+
 
 RFC 8318 - IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
 
