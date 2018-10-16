@@ -177,16 +177,14 @@ Title: Experiment in Long-Term Suspensions From Internet Engineering Task Force 
 Status: Refers to IETF Executive Director. BUT, it describes a 2006 experiment that ran for 18 months and is filed as experimental. As a result, no obvious need to update it at this time.
 
 # 19 - RFC 3710 
-## Needs to be Written
+## In Process
 Title: An IESG charter
 
 New Draft: 
 
 Datatracker: 
 
-Repo:  
-
-Status: Need a volunteer
+Status: Harald has volunteered
 
 Issue: Refers to IETF Executive Director in Section 2. Needs to change to Managing Director, IETF Secretariat.
 
@@ -198,11 +196,27 @@ New Draft:
 
 Datatracker: 
 
-Repo:  
+Issue: Refers to IETF Executive Director. Should be addressed as part of a larger update to this document -- it also contains a section about ISOC that needs updating.
 
 Status: ALLISON MANKIN VOLUNTEERED
 
-Issue: Refers to IETF Executive Director. Should be addressed as part of a larger update to this document -- it also contains a section about ISOC that needs updating.
+# 21 - RFC 2418
+## In Process
+
+Title: IETF Working Group Guidelines and Procedures
+
+Issue: Mentions IETF Executive Director in Section 1. Needs to change to Managing Director, IETF Secretariat.
+
+Status: Rich Salz volunteered.
+
+# 22 - RFC 6702
+## In Process
+
+Title: Promoting Compliance with Intellectual Property Rights (IPR) Disclosure Rules
+
+Issue: Mentions IETF Executive Director in Section 5. Needs to change to Managing Director, IETF Secretariat.
+
+Status: Russ volunteered 
 
 # Backlog: Other Documents to Check
 
@@ -210,7 +224,6 @@ Issue: Refers to IETF Executive Director. Should be addressed as part of a large
 RFC 1603 - IETF Working Group Guidelines and Procedures
 
 Obsoleted by RFC 2418
-
 
 RFC 2026 - The Internet Standards Process -- Revision 3
 
@@ -276,18 +289,6 @@ RFC 5633 - Nominating Committee Process: Earlier Announcement of Open Positions 
 Obsoleted by RFC 7437 (being updated by the WG)
 
 ## ACTION NEEDED
-RFC 2418 - IETF Working Group Guidelines and Procedures
-
-Issue: Mentions IETF Executive Director in Section 1. Needs to change to Managing Director, IETF Secretariat.
-
-
-RFC 6702 - Promoting Compliance with Intellectual Property Rights (IPR) Disclosure Rules
-
-Issue: Mentions IETF Executive Director in Section 5. Needs to change to Managing Director, IETF Secretariat.
-
-Status: Russ volunteered for 6702
-
-
 RFC 8318 - IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
 
 Issue: Mentions the IAOC extensively. We are already updating RFC 7437. Need to determine correct RFCs to have that -bis draft replace/obsolete.
