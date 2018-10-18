@@ -125,14 +125,14 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc5377bis/
 Status: Cleared WGLC
 
 # 13 - RFC 6220 
-## In Process
+## WGLC
 Title: Defining the Role and Function of IETF Protocol Parameter Registry Operators
 
 New Draft: draft-ietf-iasa2-rfc6220bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6220bis/
 
-Status: Ready for WGLC
+Status: WGLC issued; ends 11/1
 
 # 14 - RFC 7500 
 ## In WGLC
