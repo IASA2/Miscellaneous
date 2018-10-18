@@ -170,13 +170,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc3005bis/
 
 Status: WGLC started 10/15; ends 10/22
 
-# 18 - RFC 4633
-## NO UPDATE NEEDED
-Title: Experiment in Long-Term Suspensions From Internet Engineering Task Force (IETF) Mailing Lists
-
-Status: Refers to IETF Executive Director. BUT, it describes a 2006 experiment that ran for 18 months and is filed as experimental. As a result, no obvious need to update it at this time.
-
-# 19 - RFC 3710 
+# 18 - RFC 3710 
 ## In Process
 Title: An IESG charter
 
@@ -188,7 +182,7 @@ Status: Harald has volunteered
 
 Issue: Refers to IETF Executive Director in Section 2. Needs to change to Managing Director, IETF Secretariat.
 
-# 20 - RFC 2028
+# 19 - RFC 2028
 ## In Process
 Title: The Organizations Involved in the IETF Standards Process
 
@@ -200,7 +194,7 @@ Issue: Refers to IETF Executive Director. Should be addressed as part of a large
 
 Status: ALLISON MANKIN VOLUNTEERED
 
-# 21 - RFC 2418
+# 20 - RFC 2418
 ## In Process
 
 Title: IETF Working Group Guidelines and Procedures
@@ -209,18 +203,23 @@ Issue: Mentions IETF Executive Director in Section 1. Needs to change to Managin
 
 Status: Rich Salz volunteered.
 
-# 22 - RFC 6702
+# 21 - RFC 6702
 ## In Process
 
 Title: Promoting Compliance with Intellectual Property Rights (IPR) Disclosure Rules
 
 Issue: Mentions IETF Executive Director in Section 5. Needs to change to Managing Director, IETF Secretariat.
 
-Status: Russ volunteered 
+New Draft: draft-ietf-iasa2-rfc6702-bis
+
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6702-bis/
+
+Status: Ready for WGLC
 
 # Backlog: Other Documents to Check
 
 ## NO ACTION NEEDED
+
 RFC 1603 - IETF Working Group Guidelines and Procedures
 
 Obsoleted by RFC 2418
@@ -286,7 +285,11 @@ Obsoleted by RFC 8179
 
 RFC 5633 - Nominating Committee Process: Earlier Announcement of Open Positions and Solicitation of Volunteers
 
-Obsoleted by RFC 7437 (being updated by the WG)
+Commentary: Obsoleted by RFC 7437 (being updated by the WG)
+
+RFC 4633 - Experiment in Long-Term Suspensions From Internet Engineering Task Force (IETF) Mailing Lists
+
+Commentary: Refers to IETF Executive Director. BUT, it describes a 2006 experiment that ran for 18 months and is filed as experimental. As a result, no obvious need to update it at this time.
 
 ## ACTION NEEDED
 RFC 8318 - IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
