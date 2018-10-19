@@ -204,7 +204,7 @@ Issue: Mentions IETF Executive Director in Section 1. Needs to change to Managin
 Status: Rich Salz volunteered.
 
 # 21 - RFC 6702
-## In Process
+## WGLC
 
 Title: Promoting Compliance with Intellectual Property Rights (IPR) Disclosure Rules
 
@@ -214,7 +214,7 @@ New Draft: draft-ietf-iasa2-rfc6702-bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6702-bis/
 
-Status: Ready for WGLC
+Status: WGLC issued; concludes 11/2/2018
 
 # Backlog: Other Documents to Check
 
