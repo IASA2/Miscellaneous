@@ -105,14 +105,14 @@ Title: The Internet Standards Process -- Revision 3
 Status: Asked Scott Bradner for his input on 9/24/18. Our sense was that the potential IASA2-related changes were very minor and it is likely not necessary to address this (and we have much other work to do).
 
 # 11 - RFC 4844
-## In Process
+## WGLC
 Title: The RFC Series and RFC Editor
 
 New Draft: draft-ietf-iasa2-rfc4844-bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc4844-bis/
 
-Status: Published - ready for WGLC soon
+Status: WGLC issued; ends 11/2/2018
 
 # 12 - RFC 5377 
 ## Cleared WGLC
