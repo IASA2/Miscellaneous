@@ -201,6 +201,10 @@ Title: IETF Working Group Guidelines and Procedures
 
 Issue: Mentions IETF Executive Director in Section 1. Needs to change to Managing Director, IETF Secretariat.
 
+New Draft: draft-ietf-iasa2-rfc2418bis
+
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc2418bis/
+
 Status: Rich Salz volunteered.
 
 # 21 - RFC 6702
