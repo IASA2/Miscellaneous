@@ -105,14 +105,14 @@ Title: The Internet Standards Process -- Revision 3
 Status: Asked Scott Bradner for his input on 9/24/18. Our sense was that the potential IASA2-related changes were very minor and it is likely not necessary to address this (and we have much other work to do).
 
 # 11 - RFC 4844
-## WGLC
+## Cleared WGLC
 Title: The RFC Series and RFC Editor
 
 New Draft: draft-ietf-iasa2-rfc4844-bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc4844-bis/
 
-Status: WGLC issued; ends 11/2/2018
+Status: Cleared WGLC
 
 # 12 - RFC 5377 
 ## Cleared WGLC
@@ -125,24 +125,24 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc5377bis/
 Status: Cleared WGLC
 
 # 13 - RFC 6220 
-## WGLC
+## Cleared WGLC
 Title: Defining the Role and Function of IETF Protocol Parameter Registry Operators
 
 New Draft: draft-ietf-iasa2-rfc6220bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6220bis/
 
-Status: WGLC issued; ends 11/1
+Status: Cleared WGLC
 
 # 14 - RFC 7500 
-## In WGLC
+## Cleared WGLC
 Title: Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries
 
 New Draft: draft-ietf-iasa2-rfc7500-bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7500-bis/
 
-Status: WGLC issued; ends 10/25
+Status: Cleared WGLC
 
 # 15 - RFC 7691 
 ## NOT NEEDED / OBSOLETED 
@@ -161,14 +161,14 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7776bis/
 Status: Cleared WGLC 
 
 # 17 - RFC 3005 
-## WGLC
+## Cleared WGLC
 Title: IETF Discussion List Charter
 
 New Draft: draft-ietf-iasa2-rfc3005bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc3005bis/
 
-Status: WGLC started 10/15; ends 10/22
+Status: Cleared WGLC
 
 # 18 - RFC 3710 
 ## In Process
@@ -208,7 +208,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc2418bis/
 Status: Rich Salz volunteered.
 
 # 21 - RFC 6702
-## WGLC
+## Cleared WGLC
 
 Title: Promoting Compliance with Intellectual Property Rights (IPR) Disclosure Rules
 
@@ -218,7 +218,7 @@ New Draft: draft-ietf-iasa2-rfc6702-bis
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6702-bis/
 
-Status: WGLC issued; concludes 11/2/2018
+Status: Cleared WGLC
 
 # 22 - Assess MtgVenue WG Issue
 ## Investigation Needed
