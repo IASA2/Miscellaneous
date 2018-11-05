@@ -1,5 +1,5 @@
 # 1 - RFC 4071 / BCP 101 
-## Cleared WGLC
+## In Revision
 Title: Structure of the IETF Administrative Support Activity (IASA)
 
 New Draft: draft-ietf-iasa2-struct (should obsolete 4071)
@@ -8,7 +8,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/
 
 Repo: https://github.com/IASA2/draft-ietf-iasa2-struct
 
-Status: Cleared WGLC
+Status: In Revision
 
 
 # 2 - RFC 7437 [HIGH PRIORITY]
