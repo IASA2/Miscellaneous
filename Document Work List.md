@@ -221,40 +221,9 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6702-bis/
 Status: Cleared WGLC
 
 # 22 - Assess MtgVenue WG Issue
-## Investigation Needed
+## Investigation Needed // Question to WG on 11/5/2018
 
-The Venue Selection document,
-<https://datatracker.ietf.org/doc/draft-ietf-mtgvenue-iaoc-venue-selection-process/>,
-refers to "IASA" throughout. When written, the document presumed that we
-were working under IASA 1.0, and had references to RFC 4071. When our
-documents got to AUTH48, we realized that it was going to come out right
-on the heels of the IASA 2.0 docs and that it would be silly to publish
-only to have to turn around and fix things. The initial suggestion in
-mtgvenue was to pretty much do a global replace of "IASA" with "IETF
-LLC" (with some other editorial changes). The document editor's version
-with those edits is here:
-<https://www.rfc-editor.org/authors/rfc8491-auth48diff.html>. However, a
-few folks (and in particular, folks who are active in iasa20) noted that
-in fact "IASA" was correct, because under IASA 2.0, the LLC is under
-IASA, and that using "LLC" might be incorrect in some instances.
-Conversely, some folks thought that "LLC" was a clearer reference. As
-that discussion has evolved, your faithful mtgvenue chair is no longer
-sure that we've gotten this exactly right. On top of that, Alissa has
-indicated that it's probably better to have iasa20 figure out what
-terminology is appropriate to refer to the assorted entities, for the
-sake of all documents, not just mtgvenue's.
-
-So, I would ask that the iasa20 WG review the above two documents and
-let us know whether we've got it right or wrong, and generally let us
-know which terminology should be used in which circumstances. I'm sure
-mtgvenue folks will pipe up with their concerns, but guidance should
-really be coming from a discussion in iasa20.
-
-BTW: Don't worry about the fact that the document is in AUTH48 or
-whether it will need a new Last Call or whatever. Let's get the document
-correct first, and then we'll figure out what process knobs, lights, and
-buttons need to be operated.
-
+The Venue Selection document - question on terminology
 
 # Backlog: Other Documents to Check
 
