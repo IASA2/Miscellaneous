@@ -265,7 +265,7 @@ Obsoleted by RFC 3979
 
 RFC 3979 - Intellectual Property Rights in IETF Technology
 
-Obsoleted by RFC 8179
+Obsoleted by RFC 8179. RFC 8179 corrects mentions of the IETF Executive Director to the IETF Secretariat. As a result, no revision of either RFC 2026 or RFC 8179 is necessary. 
 
 
 RFC 8179 - Intellectual Property Rights in IETF Technology
@@ -289,7 +289,7 @@ Action: Filed erratum on 10/15/2018
 
 RFC 4879 - Clarification of the Third Party Disclosure Procedure in RFC 3979
 
-Obsoleted by RFC 8179, which no longer contains a reference to the IETF Executive Director.
+Obsoleted by RFC 8179. RFC 8179 corrects mentions of the IETF Executive Director to the IETF Secretariat. As a result, no revision of either RFC 2026 or RFC 8179 is necessary. 
 
 
 RFC 5633 - Nominating Committee Process: Earlier Announcement of Open Positions and Solicitation of Volunteers
