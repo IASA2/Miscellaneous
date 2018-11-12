@@ -289,7 +289,7 @@ Action: Filed erratum on 10/15/2018
 
 RFC 4879 - Clarification of the Third Party Disclosure Procedure in RFC 3979
 
-Obsoleted by RFC 8179
+Obsoleted by RFC 8179, which no longer contains a reference to the IETF Executive Director.
 
 
 RFC 5633 - Nominating Committee Process: Earlier Announcement of Open Positions and Solicitation of Volunteers
