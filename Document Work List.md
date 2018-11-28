@@ -73,11 +73,11 @@ Title: IETF-ISOC relationship
 
 New Draft: draft-ietf-iasa2-rfc2031bis
 
-Datatracker: 
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc2031bis/
 
 Repo: https://github.com/IASA2/RFC-2031-bis/blob/master/draft-ietf-iasa2-rfc2031bis.xml
 
-Status: In process with Jason and Gonzalo
+Status: -00 posted 11/28/2018, pending WG feedback
 
 # 8 - RFC 6635
 ## Cleared WGLC
