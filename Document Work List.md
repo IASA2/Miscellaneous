@@ -305,3 +305,5 @@ RFC 8318 - IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Oper
 Commenary: Mentions the IAOC and IED. We are already updating RFC 7437 with the structure draft and that draft says it updates 8318 in the header so no further action needed. 
 
 ## ACTION NEEDED
+
+Make RFC 4089 historic. Send a note to the RFC Editor requesting this once RFC4071-bis is approved.
