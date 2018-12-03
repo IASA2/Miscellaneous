@@ -300,11 +300,8 @@ RFC 4633 - Experiment in Long-Term Suspensions From Internet Engineering Task Fo
 
 Commentary: Refers to IETF Executive Director. BUT, it describes a 2006 experiment that ran for 18 months and is filed as experimental. As a result, no obvious need to update it at this time.
 
-## ACTION NEEDED
 RFC 8318 - IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
 
-Issue: Mentions the IAOC extensively. We are already updating RFC 7437. Need to determine correct RFCs to have that -bis draft replace/obsolete.
+Commenary: Mentions the IAOC and IED. We are already updating RFC 7437 with the structure draft and that draft says it updates 8318 in the header so no further action needed. 
 
-General issues:
-- Remove mention of IAOC, change to IETF LLC
-- IETF Executive Director title or Managing Director, IETF Secretariat corrections
+## ACTION NEEDED
