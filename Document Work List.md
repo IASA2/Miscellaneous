@@ -113,14 +113,10 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc4844-bis/
 Status: Cleared WGLC
 
 # 12 - RFC 5377 
-## Cleared WGLC
+## NOT NEEDED / INCL IN CONSOLIDATED UPDATE DRAFT
 Title: Advice to the Trustees of the IETF Trust on Rights to Be Granted in IETF Documents
 
-New Draft: draft-ietf-iasa2-rfc5377bis
-
-Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc5377bis/
-
-Status: Cleared WGLC
+Status: Covered by IASA2 Consolidated Updated draft-ietf-iasa2-consolidated-upd. Was draft-ietf-iasa2-rfc5377bis
 
 # 13 - RFC 6220 
 ## Cleared WGLC
@@ -133,14 +129,10 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6220bis/
 Status: Cleared WGLC
 
 # 14 - RFC 7500 
-## Cleared WGLC
+## NOT NEEDED / INCL IN CONSOLIDATED UPDATE DRAFT
 Title: Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries
 
-New Draft: draft-ietf-iasa2-rfc7500-bis
-
-Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7500-bis/
-
-Status: Cleared WGLC
+Status: Covered by IASA2 Consolidated Updated draft-ietf-iasa2-consolidated-upd. Was draft-ietf-iasa2-rfc7500-bis. 
 
 # 15 - RFC 7691 
 ## NOT NEEDED / OBSOLETED 
@@ -159,69 +151,62 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7776bis/
 Status: Cleared WGLC 
 
 # 17 - RFC 3005 
-## Cleared WGLC
+## NOT NEEDED / INCL IN CONSOLIDATED UPDATE DRAFT
 Title: IETF Discussion List Charter
 
-New Draft: draft-ietf-iasa2-rfc3005bis
-
-Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc3005bis/
-
-Status: Cleared WGLC
+Status: Covered by IASA2 Consolidated Updated draft-ietf-iasa2-consolidated-upd. Was in draft-ietf-iasa2-rfc3005bis. 
 
 # 18 - RFC 3710 
-## In Process
+## NOT NEEDED / INCL IN CONSOLIDATED UPDATE DRAFT
 Title: An IESG charter
 
-New Draft: 
-
-Datatracker: 
-
-Status: Harald has volunteered
-
-Issue: Refers to IETF Executive Director in Section 2. Needs to change to Managing Director, IETF Secretariat.
+Status: Covered by IASA2 Consolidated Updated draft-ietf-iasa2-consolidated-upd
 
 # 19 - RFC 2028
-## In Process
+## NOT NEEDED / INCL IN CONSOLIDATED UPDATE DRAFT
 Title: The Organizations Involved in the IETF Standards Process
-
-New Draft: 
-
-Datatracker: 
 
 Issue: Refers to IETF Executive Director. Should be addressed as part of a larger update to this document -- it also contains a section about ISOC that needs updating.
 
-Status: ALLISON MANKIN VOLUNTEERED
+Status: Covered by IASA2 Consolidated Updated draft-ietf-iasa2-consolidated-upd
 
 # 20 - RFC 2418
-## In Process
+## NOT NEEDED / INCL IN CONSOLIDATED UPDATE DRAFT
 
 Title: IETF Working Group Guidelines and Procedures
 
 Issue: Mentions IETF Executive Director in Section 1. Needs to change to Managing Director, IETF Secretariat.
 
-New Draft: draft-ietf-iasa2-rfc2418bis
+Status: Covered by IASA2 Consolidated Updated draft-ietf-iasa2-consolidated-upd. Old draft that can expire is at https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc2418bis/.
 
-Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc2418bis/
-
-Status: Rich Salz volunteered.
 
 # 21 - RFC 6702
-## Cleared WGLC
+## NOT NEEDED / INCL IN CONSOLIDATED UPDATE DRAFT
 
 Title: Promoting Compliance with Intellectual Property Rights (IPR) Disclosure Rules
 
-Issue: Mentions IETF Executive Director in Section 5. Needs to change to Managing Director, IETF Secretariat.
-
-New Draft: draft-ietf-iasa2-rfc6702-bis
-
-Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6702-bis/
-
-Status: Cleared WGLC
+Status: Covered by IASA2 Consolidated Updated draft-ietf-iasa2-consolidated-upd. Was draft-ietf-iasa2-rfc6702-bis. 
 
 # 22 - Assess MtgVenue WG Issue
 ## Investigation Needed // Question to WG on 11/5/2018
 
 The Venue Selection document - question on terminology
+
+# 23 - Consolidated Update Document
+
+Title: Consolidated IASA2-Related Document Updates
+
+New Draft: draft-ietf-iasa2-consolidated-upd
+
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-consolidated-upd/
+
+Status: In Process
+
+Notes: 	 
+
+updates RFCs 2028, 2418, 3005, 3710, 5377, 6702, 7500
+
+obsoletes RFCs 3716, 3929, 4633
 
 # Backlog: Other Documents to Check
 
@@ -275,28 +260,28 @@ RFC 3716 - The IETF in the Large:  Administration and Execution
 
 Commentary: While this describes the administrative structure of the IETF, it dates to 2004 and is informational. As a result, no update is necessary.
 
-Action: Filed erratum on 10/15/2018
+Action: Filed erratum on 10/15/2018 - NOW INCLUDED IN CONSOLIDATED UPDATE DRAFT
 
 
 RFC 3929 - Alternative Decision Making Processes for Consensus-Blocked Decisions in the IETF
 
 Commentary: While this touches on aspects of the administration of the IETF, such as mentioning the IETF Executive Director, it dates to 2004 and is experimental. As a result, no update is necessary.
 
-Action: Filed erratum on 10/15/2018
+Action: Filed erratum on 10/15/2018 - NOW INCLUDED IN CONSOLIDATED UPDATE DRAFT
 
+RFC 4633 - Experiment in Long-Term Suspensions From Internet Engineering Task Force (IETF) Mailing Lists
+
+Commentary: Refers to IETF Executive Director. BUT, it describes a 2006 experiment that ran for 18 months and is filed as experimental. As a result, no obvious need to update it at this time.
+
+Action: NOW INCLUDED IN CONSOLIDATED UPDATE DRAFT
 
 RFC 4879 - Clarification of the Third Party Disclosure Procedure in RFC 3979
 
 Obsoleted by RFC 8179. RFC 8179 corrects mentions of the IETF Executive Director to the IETF Secretariat. As a result, no revision of either RFC 2026 or RFC 8179 is necessary. 
 
-
 RFC 5633 - Nominating Committee Process: Earlier Announcement of Open Positions and Solicitation of Volunteers
 
 Commentary: Obsoleted by RFC 7437 (being updated by the WG)
-
-RFC 4633 - Experiment in Long-Term Suspensions From Internet Engineering Task Force (IETF) Mailing Lists
-
-Commentary: Refers to IETF Executive Director. BUT, it describes a 2006 experiment that ran for 18 months and is filed as experimental. As a result, no obvious need to update it at this time.
 
 RFC 8318 - IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
 
