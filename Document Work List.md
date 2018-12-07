@@ -8,10 +8,10 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/
 
 Repo: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc4071bis/
 
-Status: In Process
+Status: In Process (project possible WGLC start on 12/14 and end on 12/28)
 
 
-# 2 - RFC 7437 [HIGH PRIORITY]
+# 2 - RFC 7437
 ## WGLC
 Title: IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
 
@@ -75,7 +75,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc2031bis/
 
 Repo: https://github.com/IASA2/RFC-2031-bis/blob/master/draft-ietf-iasa2-rfc2031bis.xml
 
-Status: -00 posted 11/28/2018, pending WG feedback
+Status: Pending WG and IETF chair feedback (project possible WGLC start on 12/14 and end on 12/28)
 
 # 8 - RFC 6635
 ## Cleared WGLC
