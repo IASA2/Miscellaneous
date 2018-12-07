@@ -12,7 +12,7 @@ Status: In Process
 
 
 # 2 - RFC 7437 [HIGH PRIORITY]
-## In Process
+## WGLC
 Title: IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
 
 New Draft: draft-ietf-iasa2-rfc7437bis 
@@ -21,9 +21,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7437bis/
 
 Repo:  https://github.com/IASA2/RFC-7437-bis/blob/master/draft-ietf-iasa2-rfc7437bis.xml
 
-Status: HIGH PRIORITY
-
-Issues: Many references to the ED's role in the nomcom process. Recommend s/the IETF Executive Director/the IETF Secretariat/ throughout this document. Many other changes needed as well. Jason and Bob collaborating on the document.
+Status: In WGLC - starting 12/7/2018 and concluding 12/21/2018
 
 # 3 - Informal / 2018 NomCom Guidance
 ## COMPLETE
