@@ -8,7 +8,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/
 
 Repo: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc4071bis/
 
-Status: In Process (project possible WGLC start on 12/14 and end on 12/28)
+Status: Projected WGLC beginning 12/14/2018 and ending 12/28/2018
 
 
 # 2 - RFC 7437
@@ -21,7 +21,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7437bis/
 
 Repo:  https://github.com/IASA2/RFC-7437-bis/blob/master/draft-ietf-iasa2-rfc7437bis.xml
 
-Status: In WGLC - starting 12/7/2018 and concluding 12/21/2018
+Status: In WGLC - starting 12/12/2018 and concluding 12/26/2018
 
 # 3 - Informal / 2018 NomCom Guidance
 ## COMPLETE
@@ -75,7 +75,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc2031bis/
 
 Repo: https://github.com/IASA2/RFC-2031-bis/blob/master/draft-ietf-iasa2-rfc2031bis.xml
 
-Status: Pending WG and IETF chair feedback (project possible WGLC start on 12/14 and end on 12/28)
+Status: Projected WGLC beginning 12/14/2018 and ending 12/28/2018
 
 # 8 - RFC 6635
 ## Cleared WGLC
@@ -204,13 +204,7 @@ New Draft: draft-ietf-iasa2-consolidated-upd
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-consolidated-upd/
 
-Status: In Process
-
-Notes: 	 
-
-updates RFCs 2028, 2418, 3005, 3710, 5377, 6702, 7500
-
-obsoletes RFCs 3716, 3929, 4633
+Status: Projected WGLC beginning 12/14/2018 and ending 12/28/2018
 
 # Backlog: Other Documents to Check
 
