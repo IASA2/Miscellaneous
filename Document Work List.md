@@ -129,10 +129,14 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc6220bis/
 Status: Cleared WGLC
 
 # 14 - RFC 7500 
-## NOT NEEDED / INCL IN CONSOLIDATED UPDATE DRAFT
+## Cleared WGLC
 Title: Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries
 
-Status: Covered by IASA2 Consolidated Updated draft-ietf-iasa2-consolidated-upd. Was draft-ietf-iasa2-rfc7500-bis. 
+New Draft: draft-ietf-iasa2-rfc7500-bis
+
+Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7500-bis/
+
+Status: Cleared WGLC
 
 # 15 - RFC 7691 
 ## NOT NEEDED / OBSOLETED 
