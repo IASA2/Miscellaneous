@@ -66,7 +66,7 @@ Title: The IETF Administrative Oversight Committee (IAOC) Member Selection Guide
 Status: Not necessary - this is about the IAOC, which no longer exists based on the structure document. Thus the structure document should and will obsolete RFC 4333 / BCP 113.
 
 # 7 - RFC 2031
-## In Process
+## In WGLC
 Title: IETF-ISOC relationship
 
 New Draft: draft-ietf-iasa2-rfc2031bis
@@ -75,7 +75,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc2031bis/
 
 Repo: https://github.com/IASA2/RFC-2031-bis/blob/master/draft-ietf-iasa2-rfc2031bis.xml
 
-Status: Projected WGLC beginning 12/14/2018 and ending 12/28/2018
+Status: WGLC beginning 12/14/2018 and ending 12/28/2018
 
 # 8 - RFC 6635
 ## Cleared WGLC
@@ -197,6 +197,7 @@ Status: Covered by IASA2 Consolidated Updated draft-ietf-iasa2-consolidated-upd.
 The Venue Selection document - question on terminology
 
 # 23 - Consolidated Update Document
+## In WGLC
 
 Title: Consolidated IASA2-Related Document Updates
 
@@ -204,7 +205,7 @@ New Draft: draft-ietf-iasa2-consolidated-upd
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-consolidated-upd/
 
-Status: Projected WGLC beginning 12/14/2018 and ending 12/28/2018
+Status: WGLC beginning 12/14/2018 and ending 12/28/2018
 
 # Backlog: Other Documents to Check
 
