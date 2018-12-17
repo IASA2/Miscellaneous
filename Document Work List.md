@@ -8,7 +8,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-struct/
 
 Repo: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc4071bis/
 
-Status: Projected WGLC beginning 12/14/2018 and ending 12/28/2018
+Status: Projected WGLC beginning 12/18/2018 and ending 1/8/2019
 
 
 # 2 - RFC 7437
@@ -205,7 +205,7 @@ New Draft: draft-ietf-iasa2-consolidated-upd
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-consolidated-upd/
 
-Status: WGLC beginning 12/14/2018 and ending 12/28/2018
+Status: WGLC beginning 12/17/2018 and ending 1/3/2019
 
 # Backlog: Other Documents to Check
 
