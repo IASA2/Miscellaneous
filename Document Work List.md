@@ -21,7 +21,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc7437bis/
 
 Repo:  https://github.com/IASA2/RFC-7437-bis/blob/master/draft-ietf-iasa2-rfc7437bis.xml
 
-Status: In WGLC - starting 12/12/2018 and concluding 12/26/2018
+Status: In WGLC - starting 12/12/2018 and concluding 12/26/2018. Extended to 1/8/2019.
 
 # 3 - Informal / 2018 NomCom Guidance
 ## COMPLETE
@@ -75,7 +75,7 @@ Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-rfc2031bis/
 
 Repo: https://github.com/IASA2/RFC-2031-bis/blob/master/draft-ietf-iasa2-rfc2031bis.xml
 
-Status: WGLC beginning 12/14/2018 and ending 12/28/2018
+Status: WGLC beginning 12/14/2018 and ending 12/28/2018. Extended to 1/8/2019.
 
 # 8 - RFC 6635
 ## Cleared WGLC
@@ -205,7 +205,7 @@ New Draft: draft-ietf-iasa2-consolidated-upd
 
 Datatracker: https://datatracker.ietf.org/doc/draft-ietf-iasa2-consolidated-upd/
 
-Status: WGLC beginning 12/17/2018 and ending 1/3/2019
+Status: WGLC beginning 12/17/2018 and ending 1/8/2019
 
 # Backlog: Other Documents to Check
 
