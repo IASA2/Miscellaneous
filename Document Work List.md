@@ -195,12 +195,7 @@ Title: Promoting Compliance with Intellectual Property Rights (IPR) Disclosure R
 
 Status: Covered by IASA2 Consolidated Updated draft-ietf-iasa2-consolidated-upd. Was draft-ietf-iasa2-rfc6702-bis. 
 
-# 22 - Assess MtgVenue WG Issue
-## Investigation Needed // Question to WG on 11/5/2018
-
-The Venue Selection document - question on terminology
-
-# 23 - Consolidated Update Document
+# 22 - Consolidated Update Document
 ## COMPELETE
 
 Title: Consolidated IASA2-Related Document Updates
